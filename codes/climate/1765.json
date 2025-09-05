@@ -1,7 +1,7 @@
 {
   "manufacturer": "Daitsu",
   "supportedModels": [
-    "KAKAGUAPA"
+    "Hinchen Kanchen 3000"
   ],
   "commandsEncoding": "Raw",
   "supportedController": "ZHA",
